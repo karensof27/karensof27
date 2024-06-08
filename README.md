@@ -1,10 +1,21 @@
 ## Welcome 🤘
-# Encabezado 1
-###### Encabezado 6
-###### Encabezado 6
+# Karen Sofia Castillo Oliva
+###### Estudiante Los Libertadores
+###### Porgramacion Hipermedia
 ---
-> Un país, una civilización se puede juzgar por la forma en que trata a sus animales.
+> PROYECTOS 
 ---
+> Este en un juego sencillo de memoria sus imagenes son de bandas de Rock 
+---
+<img src="./imagen/cartas.jpg"/>
+- - -
+https://karensof27.github.io/Memory-Game/
+- - -
+> Este es un mapa creado en mapbox con colores oscures y con combiancion florecentes
+- - -
+<img src="./imagen/mapa.jpg"/>
+- - -
+https://api.mapbox.com/styles/v1/karen2005/clwmd9tfd03j701ql3rg78ra6.html?title=view&access_token=pk.eyJ1Ijoia2FyZW4yMDA1IiwiYSI6ImNsd21jOTlmaTFjcWEya3A0N2g3NG8yeXgifQ.lcxHYh5VVFSSSIjYd1zHCQ&zoomwheel=true&fresh=true#13.91/4.53074/-74.11511/0/75
 ---
 <!--
 **karensof27/karensof27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
